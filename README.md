@@ -13,14 +13,17 @@ I didn't write this, I just need it in a repo
     });
 ```
     
-### Other Methods I found in the code but have not tested
+### Other Methods (and their default values) I found in the code but have not tested
 
-- `destroy`
-- `url`
-- `callback`
-- `duration`
-- `touch`
-- `onZoomIn`
-- `onZoomOut`
+- `destroy` (n/a)
+- `url` (!1)
+- `callback` (!1)
+- `target` (!1)
+- `duration` (120)
+- `on` ("mouseover")
+- `touch` (!0)
+- `onZoomIn` (!1)
+- `onZoomOut` (!1)
+- `magnify` (1.33)
 
 Have Fun!
